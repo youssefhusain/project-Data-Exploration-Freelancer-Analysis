@@ -14,6 +14,6 @@ This file contains the code used for data analysis.
 ## Team Members
 
 - Youssef (Team Leader) - [GitHub](https://github.com/youssefhusain)
-- Mohamed Mohie  - [GitHub](https://github.com/iDourgham)
-- Israa  - [GitHub](https://github.com/IsraaMohamedGaber)
-- Feroz
+- Mohamed Mohie                - [GitHub](https://github.com/iDourgham)
+- Israa                                - [GitHub](https://github.com/IsraaMohamedGaber)
+- Feroz                                  - [GitHub](https://github.com/fayrouzmgalal)
