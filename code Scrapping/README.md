@@ -27,3 +27,13 @@
 ![Freelancer Level](img/name.png)
 
 ---
+##### Notebook: People per hour.ipynb <font size="1">Created by: Mohamed Mohie</font>
+##### Purpose <font size="2">This notebook extracts data related to **People per hour**, including their **name**, **Description**, **Nationality**,**Rating**,**Total Votes**, and **Price**.</font>
+##### Timeline
+- **deadline:** 06/03/2025
+- **End Date:** 05/03/2025
+---
+
+
+
+
