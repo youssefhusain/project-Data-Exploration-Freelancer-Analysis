@@ -1,5 +1,7 @@
-# file of data
+# File of Data
+
 ---
+
 ## Freelancer Data
 The `freelancer_data.csv` file contains the following columns:
 - **price**: The price of the freelancer's services.
@@ -8,6 +10,15 @@ The `freelancer_data.csv` file contains the following columns:
 - **description**: A brief description of the freelancer's services.
 - **skills**: A list of skills the freelancer possesses.
 - **rating**: The freelancer's rating, typically on a scale (e.g., 1 to 5).
-- **reviews**: The number of reviews the freelancer has 
+- **reviews**: The number of reviews the freelancer has.
+- **name**: The name of the freelancer.
+
 ---
 
+## PeoplePerHour Data
+The `peopleperhour.csv` file contains the following columns:
+- **price**: The price of the freelancer's services.
+- **total votes**: The total number of votes the freelancer has received.
+- **name**: The name of the freelancer.
+- **country**: The country where the freelancer is located.
+- **description**: A brief description of the freelancer's services.
