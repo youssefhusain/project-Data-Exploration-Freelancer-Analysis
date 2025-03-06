@@ -22,3 +22,13 @@ The `peopleperhour.csv` file contains the following columns:
 - **name**: The name of the freelancer.
 - **country**: The country where the freelancer is located.
 - **description**: A brief description of the freelancer's services.
+
+---
+
+## kolabtree data
+The `kolabtree data.csv` file contains the following columns:
+- **price**: The price of the freelancer's services.
+- **total votes**: The total number of votes the freelancer has received.
+- **name**: The name of the freelancer.
+- **country**: The country where the freelancer is located.
+---
