@@ -1,51 +1,60 @@
-# Scrapping Project Documentation
+# 📝 Scraping  Documentation
 
 ---
 
-##### Notebook: Scrapping the main box.ipynb <font size="1">Created by: Youssef</font>
-##### Purpose <font size="2">The goal of this notebook is to collect and scrape data about every freelancer, including all relevant information.</font>
-##### Timeline
-- **deadline:** 02/03/2025
-- **End Date:** 01/03/2025
+## **Acknowledgment**
+A special thanks and deep appreciation to **Eng. Yamani** for their invaluable contributions and dedication to this project. Your efforts and expertise have played a crucial role in ensuring the success of our data collection and processing. 🙌👏
+
+---
+
+## 📌 Notebook: **Scraping the Main Box**  
+**Created by:** *Youssef*  
+**📌 Purpose:** Collect and scrape data about freelancers, including all relevant information.  
+📅 **Deadline:** 02/03/2025  
+📅 **End Date:** 01/03/2025  
 
 ![The main box](img/the_main_box.png)
 
 ---
-##### Notebook: Scraping Freelancer description.ipynb <font size="1">Created by: Israa </font>
-##### Purpose <font size="2">This notebook extracts data related to **freelancers**, including their **description**, **skills**, **rating**, and **reviews**.</font>
-##### Timeline
-- **deadline:** 04/03/2025
-- **End Date:** 03/03/2025
+
+## 📌 Notebook: **Scraping Freelancer Description**  
+**Created by:** *Israa*  
+**📌 Purpose:** Extracts freelancer-related data, including **description, skills, rating, and reviews**.  
+📅 **Deadline:** 04/03/2025  
+📅 **End Date:** 03/03/2025  
+
 ![Freelancer Level](img/discrrabtion.png)
 
 ---
-##### Notebook: Scraping Freelancer name.ipynb <font size="1">Created by: Youssef</font>
-##### Purpose <font size="2">This notebook extracts data related to **freelancers**, including their **name**, **salary**, **country**, and **level image**.</font>
-##### Timeline
-- **deadline:** 05/03/2025
-- **End Date:** 03/03/2025
+
+## 📌 Notebook: **Scraping Freelancer Name**  
+**Created by:** *Youssef*  
+**📌 Purpose:** Extracts freelancer **name, salary, country, and level image**.  
+📅 **Deadline:** 05/03/2025  
+📅 **End Date:** 03/03/2025  
+
 ![Freelancer Level](img/name.png)
 
 ---
-##### Notebook: People per hour.ipynb <font size="1">Created by: Mohamed Mohie</font>
-##### Purpose <font size="2">This notebook extracts data related to **People per hour**, including their **name**, **Description**, **Nationality**,**Rating**,**Total Votes**, and **Price**.</font>
-##### Timeline
-- **deadline:** 06/03/2025
-- **End Date:** 05/03/2025
----
-##### Notebook: kolabtree data scraping.ipynb <font size="1">Created by: youssef</font>
-##### Purpose <font size="2">This notebook extracts data related to **kolabtree**, including their **name**, **Description**, **Nationality**,**Rating**,**Total Votes**, and **Price**.</font>
-##### Timeline
-- **deadline:** 06/03/2025
-- **End Date:** 06/03/2025
----
-##### Notebook:fiver.ipynb <font size="1">Created by: Israa</font>
-##### Purpose <font size="2">This notebook extracts data related to **fiver**, including their **name**, **Description**, **Nationality**,**Rating**,**Total Votes**, and **Price**.</font>
-##### Timeline
-- **deadline:** 06/03/2025
-- **End Date:** 07/03/2025
+
+## 📌 Notebook: **PeoplePerHour Scraping**  
+**Created by:** *Mohamed Mohie*  
+**📌 Purpose:** Extracts data related to **PeoplePerHour**, including **name, description, nationality, rating, total votes, and price**.  
+📅 **Deadline:** 06/03/2025  
+📅 **End Date:** 05/03/2025  
+
 ---
 
+## 📌 Notebook: **Kolabtree Data Scraping**  
+**Created by:** *Youssef*  
+**📌 Purpose:** Extracts data from **Kolabtree**, including **name, description, nationality, rating, total votes, and price**.  
+📅 **Deadline:** 06/03/2025  
+📅 **End Date:** 06/03/2025  
 
+---
 
-
+## 📌 Notebook: **Fiverr Scraping**  
+**Created by:** *Israa*  
+**📌 Purpose:** Extracts data from **Fiverr**, including **name, description, nationality, rating, total votes, and price**.  
+📅 **Deadline:** 06/03/2025  
+📅 **End Date:** 07/03/2025  
