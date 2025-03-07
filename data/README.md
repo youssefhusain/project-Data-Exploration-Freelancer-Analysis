@@ -55,10 +55,7 @@ This file contains **the cleaned and processed version** of `freelancer_data.csv
 - 🧹 **Data cleaning and preprocessing**  
 - 🔄 **Standardization of country names, skills, and pricing formats**  
 - ❌ **Removal of duplicates and invalid entries**  
-
----
-
-## 📌 6️⃣ Extracted Features  
+## 📌  Extracted Features  
 During the data preprocessing, we extracted the following features:
 
 ### 🔹 **New Columns:**
@@ -75,11 +72,5 @@ During the data preprocessing, we extracted the following features:
 
 ---
 
-## 📌 🔍 Future Extraction:
-In future data processing, we plan to extract:  
-1️⃣ **More detailed skill categorization**  
-2️⃣ **Freelancer experience levels**  
-3️⃣ **Client satisfaction metrics**  
-4️⃣ **Advanced AI-based insights for freelancer matching**  
 
-✉️ **Need help or updates? Feel free to contribute!** 🚀
+
