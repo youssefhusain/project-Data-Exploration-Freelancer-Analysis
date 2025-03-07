@@ -1,34 +1,85 @@
-# File of Data
+# 📂 Freelancer Data Documentation
+
+This document provides details about various freelancer-related datasets and extracted features.
 
 ---
 
-## Freelancer Data
-The `freelancer_data.csv` file contains the following columns:
-- **price**: The price of the freelancer's services.
-- **image**: A URL or file path to an image of the freelancer.
-- **country**: The country where the freelancer is located.
-- **description**: A brief description of the freelancer's services.
-- **skills**: A list of skills the freelancer possesses.
-- **rating**: The freelancer's rating, typically on a scale (e.g., 1 to 5).
-- **reviews**: The number of reviews the freelancer has.
-- **name**: The name of the freelancer.
+## 📌 1️⃣ Freelancer Data (`freelancer_data.csv`)
+This file contains information about freelancers, including pricing, skills, and reviews.
+
+### 🔹 Columns:
+- **`price`** → The price of the freelancer's services.  
+- **`image`** → URL or file path to the freelancer's image.  
+- **`country`** → The freelancer's location.  
+- **`description`** → A brief summary of the freelancer's expertise and services.  
+- **`skills`** → A list of skills the freelancer possesses.  
+- **`rating`** → The freelancer's rating (e.g., 1 to 5).  
+- **`reviews`** → The number of reviews received.  
+- **`name`** → The freelancer's name.  
 
 ---
 
-## PeoplePerHour Data
-The `peopleperhour.csv` file contains the following columns:
-- **price**: The price of the freelancer's services.
-- **total votes**: The total number of votes the freelancer has received.
-- **name**: The name of the freelancer.
-- **country**: The country where the freelancer is located.
-- **description**: A brief description of the freelancer's services.
+## 📌 2️⃣ PeoplePerHour Data (`peopleperhour.csv`)
+This dataset contains freelancer information from the **PeoplePerHour** platform.
+
+### 🔹 Columns:
+- **`price`** → The cost of the freelancer's services.  
+- **`total votes`** → The total number of votes the freelancer has received.  
+- **`name`** → The freelancer's name.  
+- **`country`** → The freelancer's location.  
+- **`description`** → A brief summary of their expertise.  
 
 ---
 
-## kolabtree data
-The `kolabtree data.csv` file contains the following columns:
-- **price**: The price of the freelancer's services.
-- **total votes**: The total number of votes the freelancer has received.
-- **name**: The name of the freelancer.
-- **country**: The country where the freelancer is located.
+## 📌 3️⃣ Kolabtree Data (`kolabtree_data.csv`)
+This dataset contains freelancer details from the **Kolabtree** platform.
+
+### 🔹 Columns:
+- **`price`** → The cost of the freelancer's services.  
+- **`total votes`** → The total number of votes the freelancer has received.  
+- **`name`** → The freelancer's name.  
+- **`country`** → The freelancer's location.  
+
 ---
+
+## 📌 4️⃣ Fiverr Data (`fiver_data.csv`)
+This dataset contains freelancer information from the **Fiverr** platform.  
+❗ **(Details for this file were not provided; consider adding column descriptions.)**
+
+---
+
+## 📌 5️⃣ Cleaned Freelancer Data (`freelancer_data_after_clean.csv`)
+This file contains **the cleaned and processed version** of `freelancer_data.csv`.
+
+### ✅ Modifications include:
+- 🧹 **Data cleaning and preprocessing**  
+- 🔄 **Standardization of country names, skills, and pricing formats**  
+- ❌ **Removal of duplicates and invalid entries**  
+
+---
+
+## 📌 6️⃣ Extracted Features  
+During the data preprocessing, we extracted the following features:
+
+### 🔹 **New Columns:**
+- **`Region`** → The geographical region of the freelancer based on their country.  
+- **`skills_list`** → Extracted list of skills from the freelancer's profile.  
+- **`skills_count`** → Number of skills the freelancer has.  
+- **`level`** → Extracted membership level from freelancer profiles.  
+- **`categories`** → Categorized skills based on predefined categories.  
+- **`skills_list_standardization`** → Standardized skills for consistency.  
+- **`description_Length`** → Length of the freelancer's description in characters.  
+- **`Extracted_Skills_from_description`** → Skills extracted from the description text.  
+- **`Extracted_Skills_from_description_list`** → List of unique skills extracted from the description.  
+- **`Extracted_Skills_from_description_number`** → Total number of extracted skills from the description.  
+
+---
+
+## 📌 🔍 Future Extraction:
+In future data processing, we plan to extract:  
+1️⃣ **More detailed skill categorization**  
+2️⃣ **Freelancer experience levels**  
+3️⃣ **Client satisfaction metrics**  
+4️⃣ **Advanced AI-based insights for freelancer matching**  
+
+✉️ **Need help or updates? Feel free to contribute!** 🚀
