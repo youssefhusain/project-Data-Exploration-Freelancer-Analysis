@@ -5,11 +5,12 @@ We use the mash image as it represents the project. From any part, you can get a
 
 Start by:
 - [💡 Trello](https://trello.com/b/VIebsUqs/dep-project)
-- [💡 Report of the project](https://trello.com/b/VIebsUqs/dep-project)
+- [💡 Report of the project](https://drive.google.com/drive/folders/1Cq8nDr7NO_QFEALR2GD_h1dDDu52-A4I)
 
 ---
 ## Description : 
 ## Project Overview
+agile framework : Scrum 
 This project is dedicated to web scraping freelancer marketplaces to extract and analyze data from different platforms, including:  
 - *Freelancers*  
 - *PeoplePerHour*  
@@ -28,7 +29,7 @@ This file contains the code for data scraping.
 ### Code File
 This file contains the code used for data analysis.
 ### report File
-contain all inside gited from data
+Contains all insights derived from the data.
 
 ## Team Members
 
