@@ -33,7 +33,7 @@ Contains all insights derived from the data.
 
 ## Team Members
 
-- **Youssef (Team Leader)** - [GitHub](https://github.com/youssefhusain)
-- **Mohamed Mohie** - [GitHub](https://github.com/iDourgham)
+- **Youssef (Team Leader)** - [GitHub](https://github.com/youssefhusain) - [linkedin](https://www.linkedin.com/in/youssef-hessan-alghamry/)
+- **Mohamed Mohie** - [GitHub](https://github.com/iDourgham) - [linkedin](https://www.linkedin.com/in/israa-mohamed-gaber-ab0364273/)
 - **Israa** - [GitHub](https://github.com/IsraaMohamedGaber)
 - **Feroz** - [GitHub](https://github.com/fayrouzmgalal)
