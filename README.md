@@ -7,7 +7,8 @@ We use the mash image as it represents the project. From any part, you can get a
 - [💡 Trello](https://trello.com/b/VIebsUqs/dep-project)
 - [💡 Report of the project](https://trello.com/b/VIebsUqs/dep-project)
 
-- [![ YouTube](https://img.youtube.com/vi/EFmxPMdBqmU/0.jpg)](https://www.youtube.com/watch?v=EFmxPMdBqmU)
+- [![YouTube](https://img.youtube.com/vi/EFmxPMdBqmU/0.jpg)](https://www.youtube.com/watch?v=EFmxPMdBqmU)
+
 
 ---
 ## Description : 
