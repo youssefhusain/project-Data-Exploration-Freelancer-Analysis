@@ -1,5 +1,6 @@
 # Data Exploration Project
 ![The main box](code%20Scrapping/img/mash.jpg)
+---
 We use the mash image as it represents the project. From any part, you can get an overview of the project and understand all its aspects. All parts of the project are described and shown in detail.
 
 Start by:
