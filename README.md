@@ -1,5 +1,6 @@
 # Data Exploration Project
-![The main box]("code Scrapping\img\mash.jpg")
+![The main box](code%20Scrapping/img/mash.jpg)
+
 - [💡 trello](https://trello.com/b/VIebsUqs/dep-project)
 ## Files Description
 
