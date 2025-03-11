@@ -6,7 +6,7 @@ We use the mash image as it represents the project. From any part, you can get a
 Start by:
 - [💡 Trello](https://trello.com/b/VIebsUqs/dep-project)
 - [🫵 Report of the project](https://drive.google.com/drive/folders/1Cq8nDr7NO_QFEALR2GD_h1dDDu52-A4I)
-- [🎬 youtube ](https://drive.google.com/drive/folders/1Cq8nDr7NO_QFEALR2GD_h1dDDu52-A4I)
+- [🎬 YouTube](https://www.youtube.com/watch?v=EFmxPMdBqmU)
 
 ---
 ## Description : 
