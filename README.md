@@ -4,13 +4,13 @@
 We use the mash image as it represents the project. From any part, you can get an overview of the project and understand all its aspects. All parts of the project are described and shown in detail.
 
 ### Start by:
-- [💡 Trello](https://trello.com/b/VIebsUqs/dep-project)
-- [💡 Report of the project](https://trello.com/b/VIebsUqs/dep-project)
+- [💡 Trello Board](https://trello.com/b/VIebsUqs/dep-project)
+- [📄 Project Report](https://your-report-link.com)  <!-- استبدل هذا بالرابط الصحيح للتقرير -->
 
-- [![YouTube](https://img.youtube.com/vi/EFmxPMdBqmU/0.jpg)](https://www.youtube.com/watch?v=EFmxPMdBqmU)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EFmxPMdBqmU" frameborder="0" allowfullscreen></iframe>
+---
 
-
+## 🎥 Project Video  
+[![Watch the video](https://img.youtube.com/vi/EFmxPMdBqmU/0.jpg)](https://www.youtube.com/watch?v=EFmxPMdBqmU)
 
 ---
 ## Description : 
