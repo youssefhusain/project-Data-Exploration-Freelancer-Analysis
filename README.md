@@ -7,6 +7,16 @@ Start by:
 - [💡 Trello](https://trello.com/b/VIebsUqs/dep-project)
 - [💡 Report of the project](https://trello.com/b/VIebsUqs/dep-project)
 
+---
+## Description : 
+## Project Overview
+This project is dedicated to web scraping freelancer marketplaces to extract and analyze data from different platforms, including:  
+- *Freelancers*  
+- *PeoplePerHour*  
+- *Kolabtree*  
+- *Fiverr*  
+
+The goal of this project is to collect structured data about freelancers, their skills, pricing, and available job opportunities to gain insights into the freelancing market.
 ## Files Description
 
 ### Data File
@@ -17,6 +27,8 @@ This file contains the code for data scraping.
 
 ### Code File
 This file contains the code used for data analysis.
+### report File
+contain all inside gited from data
 
 ## Team Members
 
