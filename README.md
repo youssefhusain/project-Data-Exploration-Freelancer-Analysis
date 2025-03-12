@@ -10,7 +10,9 @@ We use the mash image as it represents the project. From any part, you can get a
 ---
 
 ## 🎥 Project Video  
-[![Watch the video](https://img.youtube.com/vi/EFmxPMdBqmU/0.jpg)](https://www.youtube.com/watch?v=EFmxPMdBqmU)
+[![Watch the video](https://img.youtube.com/vi/IZ17qh0Oy4w/0.jpg)](https://www.youtube.com/watch?v=IZ17qh0Oy4w)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IZ17qh0Oy4w" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 ## Description : 
