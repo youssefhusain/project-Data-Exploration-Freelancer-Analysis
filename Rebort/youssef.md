@@ -18,7 +18,7 @@ The table below shows the distribution of freelancers across different regions:
 | 🌍 Africa                     | 182                   | ~2%                 |
 | 🌍 Other                      | 109                   | ~1%                 |
 | 🌏 Oceania                    | 87                    | ~1%                 |
-
+![Level vs Rating](../code%20Scrapping/img/Region.png)
 ---
 
 ## 🔍 **Key Insights and Data Analysis**
@@ -69,14 +69,11 @@ The distribution of prices for freelancers with and without ratings is shown in 
   ![Price Distribution (Freelancers Without Ratings)](../code%20Scrapping/img/distrbution(price)_norating.png)
 
 ---
+### average price vs rigon 
+- **Price vs rigon :**
+  ![Price Distribution (All Freelancers)](../code%20Scrapping/img/avrage_price_vs_rigon.png)
 
-## 📝 **Conclusion**
-
-This analysis provides valuable insights into the freelance market, including regional dominance, rating distributions, and pricing patterns. By transforming numerical data into categories and segmenting rated vs. non-rated freelancers, we can better understand the dynamics of the freelance ecosystem.
-
+- **Price vs country :**
+  ![Price Distribution (Freelancers Without Ratings)](../code%20Scrapping/img/avrage_price_vs_country.png)
 ---
-
-### Notes:
-- Replace image paths (e.g., `../code%20Scrapping/img/...`) with the actual paths to your images.
-- Ensure all images are accessible and correctly linked.
-- If additional sections or clarifications are needed, feel free to expand the Markdown further.
+###
