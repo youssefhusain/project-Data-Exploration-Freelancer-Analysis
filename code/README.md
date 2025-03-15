@@ -22,3 +22,9 @@ Your efforts and expertise have played a crucial role in ensuring the success of
 📅 **Deadline:** 14/03/2025  
 📅 **End Date:** 14/03/2025  
 ---
+
+## 📌 **Notebook: feature scaling**  
+**🖊 Created by:** *Feroz*  
+📅 **Deadline:** 16/03/2025  
+📅 **End Date:** 15/03/2025  
+---
