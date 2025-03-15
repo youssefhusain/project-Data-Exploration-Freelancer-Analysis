@@ -24,7 +24,12 @@ Your efforts and expertise have played a crucial role in ensuring the success of
 ---
 
 ## 📌 **Notebook: feature scaling**  
-**🖊 Created by:** *Feroz*  
+**🖊 Created by:** *Feroz and Mohie*  
+📅 **Deadline:** 16/03/2025  
+📅 **End Date:** 15/03/2025  
+---
+## 📌 **Notebook: Freelancer Data Analysis & Feature Selection**  
+**🖊 Created by:** *Feroz and Israa*  
 📅 **Deadline:** 16/03/2025  
 📅 **End Date:** 15/03/2025  
 ---
