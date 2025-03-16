@@ -106,3 +106,55 @@ Key Insight: 💡 The top 10 earning countries dominate the freelance market in 
 ## Bottom 10 Earning Countries
 A list of the bottom 10 earning countries by total earnings is provided, highlighting regions with lower freelance earnings.
  ![download](https://github.com/user-attachments/assets/83c57c92-311c-4888-ba2c-e14b0d322e93)
+
+ -------------------
+
+ ## # Rating Based on Skills
+
+This document outlines the process of analyzing and visualizing the relationship between freelancer ratings and the number of skills they possess. Here's an overview of the key components:
+
+## Average Number of Skills by Rating
+A table is provided showing the average number of skills for different rating levels, ranging from 1 to 5.
+
+Key Insight: 💡 The document provides a detailed approach to analyzing and visualizing the relationship between freelancer ratings and the number of skills they possess, offering insights into how skills impact ratings.
+![download](https://github.com/user-attachments/assets/f5de0df7-71e7-45e7-8f32-d7990eb79943)
+----------
+## Average Price by Experience Level
+
+This visualization illustrates the relationship between freelancers' experience levels and their average pricing. Here's what stands out:
+
+🤔 Freelancers with higher experience levels often command higher prices due to their expertise, reputation, and ability to deliver quality work.
+
+💡 Clients are typically willing to pay more for experienced professionals, reflecting the value placed on experience in the freelance market.
+
+Key Insight: 💡 The visualization highlights a clear correlation between experience levels and pricing, emphasizing that experienced freelancers tend to charge higher rates, which aligns with market expectations and perceived value.
+
+![download](https://github.com/user-attachments/assets/64bee527-5433-4e0d-96bd-42f9a96082a0)
+
+-----------
+## Most In-Demand Skills
+
+This visualization highlights the top 10 most in-demand skills extracted from freelancer descriptions. Here's what stands out:
+
+📊 The bar chart ranks the most sought-after skills based on their frequency in freelancer profiles, with skills like "experience," "design," and "web" appearing prominently.
+
+🤔 Skills such as "experience," "design," and "web" are highly valued in the freelance market, reflecting the demand for expertise in these areas.
+
+💡 The prominence of these skills indicates the types of services clients are seeking, which can guide freelancers in skill development and specialization.
+
+Key Insight: 💡 The visualization underscores the importance of certain skills in the freelance market, providing valuable insights for freelancers looking to align their offerings with market demand.
+
+![download](https://github.com/user-attachments/assets/045c4a7b-4d84-4a75-94b3-7314b9abf677)
+
+-----------
+## Top Categories by Frequency
+
+This visualization showcases the top 10 most frequently offered service categories by freelancers. Here's what stands out:
+
+🤔 Categories like "Graphic Design" and "Web Development" are highly sought after due to the growing demand for digital services and online presence.
+
+💡 The combination of categories, such as "Graphic Design, Web Development, Programming," indicates the versatility and multi-skilled nature of freelancers in meeting diverse client needs.
+
+Key Insight: 💡 The visualization highlights the most popular service categories in the freelance market, providing valuable insights for freelancers to focus on in-demand areas and for clients to understand market trends.
+![download](https://github.com/user-attachments/assets/ebd0d047-80f0-4412-9506-c61bf54c9043)
+------------
