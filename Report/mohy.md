@@ -1,4 +1,4 @@
-1) Based on the analysis of the two graphs, here are the key takeaways:
+# 1) Based on the analysis of the two graphs, here are the key takeaways:
 
 🎨 Graphic Design is the most common skill among freelancers, making up a significant portion of the freelance workforce.
 
