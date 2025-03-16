@@ -1,4 +1,4 @@
-#Insights and Visualization
+# Insights and Visualization
 Distribution of Service Prices
 This section visualizes the distribution of service prices using a histogram with a KDE (Kernel Density Estimate) overlay.
 - **Freelancer Distribution by Price**  
