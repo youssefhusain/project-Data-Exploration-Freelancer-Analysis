@@ -19,25 +19,26 @@ This pattern can be explained by:
 
 💡 As freelancers gain more experience, some may transition to other roles or industries, resulting in fewer individuals at higher experience levels.
 
-Key Insight: 💡 The distribution highlights that while many freelancers begin their careers at lower experience levels, the number decreases as experience grows, reflecting career progression and potential industry shifts.
+Key Insight: 
+💡 The distribution highlights that while many freelancers begin their careers at lower experience levels, the number decreases as experience grows, reflecting career progression and potential industry shifts.
 ![download](https://github.com/user-attachments/assets/a19ee305-ff81-4237-9c52-ee0eadf31387)
 
+--------
+# Rating Distribution
 
+This graph showcases the distribution of ratings among freelancers. Here's what stands out:
 
-💰 Average Price by Experience Level
-This graph shows how freelancers at different experience levels charge for their services. Here's what stands out:
+📊 The ratings are distributed across a range, with a noticeable concentration around certain rating values, indicating common performance levels among freelancers.
 
-📊 Junior, Mid-Junior, Senior, Mid-Senior, and Expert freelancers follow a relatively normal pricing trend, with prices increasing as experience grows.
+🚨 The distribution includes a smooth curve (KDE) that highlights the density of ratings, showing where most freelancers fall in terms of performance.
 
-🚨 However, Beginners charge more than expected, which is unusual given their limited experience.
+This pattern can be explained by:
 
-This anomaly can be explained by:
+🤔 Freelancers with average ratings are more common, as they represent the typical performance level in the market.
 
-🤔 Beginners often lack the knowledge of market rates and may overestimate their value.
+💡 The presence of a smooth curve suggests a natural variation in performance, with fewer freelancers at the extreme high or low ends of the rating spectrum.
 
-💡 Inexperienced freelancers might also be less aware of competitive pricing strategies.
-
-Key Insight: 💡 While experience generally dictates pricing, beginners often charge more due to a lack of market awareness.
-
-![download](https://github.com/user-attachments/assets/9853f442-b218-4c2b-901b-bdb49b5e1fe7)
+Key Insight: 
+💡 The rating distribution reveals that most freelancers cluster around average performance levels, with fewer individuals at the highest and lowest ends, reflecting a balanced market performance.
+![download](https://github.com/user-attachments/assets/c4e2abf1-1794-4172-9cbf-5f16cc4bad52)
 
