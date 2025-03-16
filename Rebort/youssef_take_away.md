@@ -61,17 +61,7 @@ Good communication is key to success. According to a [Freelancer.com survey](htt
 - Use mobile apps for platforms to stay connected on the go.
 
 ---
-
-## 7. Go the Extra Mile for Clients
-Delivering more than expected increases the chances of repeat business. According to [Freelancer.com data](https://www.freelancer.com/community/articles/freelancer-survey-2019), freelancers who deliver work early are **40% more likely** to get repeat work.
-
-- Tailor your proposals to the client’s needs.
-- Proactively offer suggestions to improve the project.
-- Deliver work on time or early to build trust.
-
----
-
-## 8. Request Reviews and Feedback
+## 7. Request Reviews and Feedback
 Positive reviews enhance your credibility. According to a [BrightLocal study](https://www.brightlocal.com/research/local-consumer-review-survey/), **91% of consumers** trust online reviews as much as personal recommendations.
 
 - Politely ask for reviews after completing a successful project.
@@ -79,7 +69,7 @@ Positive reviews enhance your credibility. According to a [BrightLocal study](ht
 
 ---
 
-## 9. Invest in Continuous Learning
+## 8. Invest in Continuous Learning
 Competition in freelancing requires staying up-to-date. According to the [Upwork 2023 report](https://www.upwork.com/research/freelance-forward-2023), **60% of freelancers** believe continuous learning is essential for career growth.
 
 - Follow the latest trends and tools in your field.
@@ -87,14 +77,6 @@ Competition in freelancing requires staying up-to-date. According to the [Upwork
 - Add new skills to your profile.
 
 ---
-
-## 10. Promote Yourself Beyond Platforms
-Self-promotion opens new doors. According to [Freelancer.com](https://www.freelancer.com/community/articles/freelancer-survey-2019), freelancers who promote themselves see a **25% increase** in client inquiries.
-
-- Share your profile link on platforms like LinkedIn or Twitter.
-- Join freelancing communities to network with clients and peers.
-- Create a personal website or blog to showcase your work.
-
+## 9.Patience 
 ---
 
-By applying these practical tips along with the key statistics mentioned, you’ll be able to distinguish yourself as a professional and reliable freelancer. Start implementing these strategies today to boost your freelancing success!
