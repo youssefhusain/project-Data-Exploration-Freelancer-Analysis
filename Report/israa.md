@@ -5,6 +5,9 @@ This section visualizes the distribution of service prices using a histogram wit
 ![image alt](https://raw.githubusercontent.com/youssefhusain/project-Data-Exploration/main/code%20Scrapping/img/Distribution%20of%20Service%20Prices.png)
 
 
+![download](https://github.com/user-attachments/assets/a19ee305-ff81-4237-9c52-ee0eadf31387)
+
+
 
 💰 Average Price by Experience Level
 This graph shows how freelancers at different experience levels charge for their services. Here's what stands out:
