@@ -1,4 +1,4 @@
-# Data Exploration Project 1
+# Data Exploration Project 
 ![The main box](code%20Scrapping/img/mash.jpg)
 
 ---
