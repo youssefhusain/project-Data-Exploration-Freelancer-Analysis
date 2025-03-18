@@ -1,4 +1,4 @@
-# 🌍 Freelancer Region Analysis
+# 🌍 Freelancer Region Analysi
 
 Based on the dataset, **more than 50% of freelancers** come from **Asia**, making it the dominant region in the freelance market.
 
