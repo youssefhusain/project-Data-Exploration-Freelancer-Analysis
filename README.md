@@ -28,6 +28,7 @@ This project is dedicated to web scraping freelancer marketplaces to extract and
 The goal of this project is to collect structured data about freelancers, their skills, pricing, and available job opportunities to gain insights into the freelancing market.
 ## Files Description
 
+
 ### Data File
 This file contains the information and data used in the project.
 
