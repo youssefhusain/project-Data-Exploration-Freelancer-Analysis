@@ -14,8 +14,9 @@ We use the mash image as it represents the project. From any part, you can get a
 
 ## 🎥 Project Video  
 [![Watch the video](https://img.youtube.com/vi/IZ17qh0Oy4w/0.jpg)](https://www.youtube.com/watch?v=IZ17qh0Oy4w)
+## 🎥 Project Video 
+[![Watch the video](https://img.youtube.com/vi/yf7RrSRAIvw/0.jpg)](https://youtu.be/yf7RrSRAIvw)
 
-[![Watch the video](https://img.youtube.com/vi/IZ17qh0Oy4w/0.jpg)]([https://www.youtube.com/watch?v=IZ17qh0Oy4w](https://youtu.be/yf7RrSRAIvw))
 
 
 
