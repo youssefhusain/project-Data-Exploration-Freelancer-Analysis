@@ -66,9 +66,7 @@ During the data preprocessing, we extracted the following features:
 - **`categories`** → Categorized skills based on predefined categories.  
 - **`skills_list_standardization`** → Standardized skills for consistency.  
 - **`description_Length`** → Length of the freelancer's description in characters.  
-- **`Extracted_Skills_from_description`** → Skills extracted from the description text.  
-- **`Extracted_Skills_from_description_list`** → List of unique skills extracted from the description.  
-- **`Extracted_Skills_from_description_number`** → Total number of extracted skills from the description.  
+
 
 ---
 
